@@ -85,3 +85,14 @@ It will be updated to `pypi` and `conda` soon with stable releases
 ### Model Configuration:
 
     yplate --config
+
+## Sample Outputs:
+
+#### Detected Plates:
+![car1](output/car1.jpg | width=100)  ![car2](output/car2.jpg | width=100) ![car3](output/car3.jpg | width=100) ![car4](output/car4.jpg | width=100) ![car5](output/car5.jpg | width=100) ![car6](output/car6.jpg | width=100)
+
+#### Corresponding plates:
+
+![car1](plates/car1_plate_0.jpg | width=100) ![car1](plates/car2_plate_0.jpg | width=100) ![car1](plates/car3_plate_0.jpg | width=100) ![car1](plates/car4_plate_0.jpg | width=100)
+![car1](plates/car4_plate_1.jpg | width=100) ![car1](plates/car5_plate_0.jpg | width=100) ![car1](plates/car6_plate_0.jpg | width=100)
+

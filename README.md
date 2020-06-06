@@ -4,11 +4,20 @@
 
 ## Detect Vehicle Number plates with YOLOv3 powered by OpenCV >= 3.x 
 
-### Usage:
+### Install:
 
-    pip install yplate
+#### a. With `Wheel` 
+
+    pip install https://github.com/deepraj1729/yplate/releases/download/0.0.1/yplate-0.0.1-py3-none-any.whl
+
+#### a. With `tar.gz` 
     
-## Command-line Arguments:-
+    pip install https://github.com/deepraj1729/yplate/releases/download/0.0.1/yplate-0.0.1.tar.gz
+    
+    
+# Usage:
+
+### Command-line Arguments:-
 
 1. `detect`
 

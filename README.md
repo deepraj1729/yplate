@@ -89,10 +89,10 @@ It will be updated to `pypi` and `conda` soon with stable releases
 ## Sample Outputs:
 
 #### Detected Plates:
-![car1](yplate/tree/master/output/car1.jpg =250x250)  ![car2](yplate/tree/master/output/car2.jpg =250x250) ![car3](yplate/tree/master/output/car3.jpg | width=100) ![car4](yplate/tree/master/output/car4.jpg | width=100) ![car5](yplate/tree/master/output/car5.jpg | width=100) ![car6](yplate/tree/master/output/car6.jpg | width=100)
+
+<img src="https://github.com/deepraj1729/yplate/tree/master/output/car1.jpg">
+
 
 #### Corresponding plates:
-
-![car1](plates/car1_plate_0.jpg | width=100) ![car1](plates/car2_plate_0.jpg | width=100) ![car1](plates/car3_plate_0.jpg | width=100) ![car1](plates/car4_plate_0.jpg | width=100)
-![car1](plates/car4_plate_1.jpg | width=100) ![car1](plates/car5_plate_0.jpg | width=100) ![car1](plates/car6_plate_0.jpg | width=100)
+<img src="https://github.com/deepraj1729/yplate/tree/master/plates/car1_plate_0.jpg">
 

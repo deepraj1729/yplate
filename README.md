@@ -34,7 +34,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
     yplate detect images/car2.jpg
 
 
-![car2.jpg](https://github.com/deepraj1729/yplate/blob/master/images/car2.jpg | width=200)
+[![car2](https://github.com/deepraj1729/yplate/blob/master/images/car2.jpg)]
     
 ### (1.b)  Detect plates and custom save it with a valid new filename (detected image will be saved to output directory with custom file name) 
     

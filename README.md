@@ -27,7 +27,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 2. `crop`
 
 
-## `detect` (Detect  Plates) :-
+## `detect`
 
 ### (1.a)  Detect plates automatically (detected image will be saved to output directory always with original starting file name) 
 
@@ -56,7 +56,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
     yplate detect images/car2.jpg --save none
 
 
-## `crop` (Crop Plates) :-
+## `crop`
 
 ### (2.a)  Crop plates automatically ( Cropped plates will be saved to 'plates/' directory always with original starting file name)
 

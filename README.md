@@ -63,19 +63,19 @@ It will be updated to `pypi` and `conda` soon with stable releases
     
 ### (2.b)  Detect plates and custom save it with a valid new filename (Cropped image will be saved to output directory with starting custom file name)
     
-    yplate crop img.jpg --save plate1.jpg
+    yplate crop images/car2.jpg --save plate2.jpg
     
 ### (2.c)  Hide cropped image in command-line
 
-    yplate crop img.jpg --hide_img
+    yplate crop images/car2.jpg --hide_img
     
 ### (2.d)  Hide output in command-line
 
-    yplate crop img.jpg --hide_out
+    yplate crop images/car2.jpg --hide_out
 
 ### (2.e)  Don't save output image
 
-    yplate crop img.jpg --save none
+    yplate crop images/car2.jpg --save none
 
 
 ### Check `yplate` version:

@@ -4,6 +4,9 @@
 
 ## Detect Vehicle Number plates with YOLOv3 powered by OpenCV >= 3.x 
 
+### Updates:
+It will be updated to `pypi` and `conda` soon with stable releases
+
 ### Install:
 
 #### a. With `Wheel` 

@@ -89,7 +89,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 ## Sample Outputs:
 
 #### Detected Plates:
-![car1](output/car1.jpg | width=100)  ![car2](output/car2.jpg | width=100) ![car3](output/car3.jpg | width=100) ![car4](output/car4.jpg | width=100) ![car5](output/car5.jpg | width=100) ![car6](output/car6.jpg | width=100)
+![car1](output/car1.jpg =250x250)  ![car2](output/car2.jpg =250x250) ![car3](output/car3.jpg | width=100) ![car4](output/car4.jpg | width=100) ![car5](output/car5.jpg | width=100) ![car6](output/car6.jpg | width=100)
 
 #### Corresponding plates:
 

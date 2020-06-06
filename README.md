@@ -36,7 +36,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ![car2](output/car2.jpg)
 
-<img src="https://github.com/deepraj1729/yplate/blob/master/out_txt/out.png" width = "200" height = "500">
+<img src="https://github.com/deepraj1729/yplate/blob/master/out_txt/out.png" width = "400" height = "500">
 
 
 ### (1.b)  Detect plates and custom save it with a valid new filename (detected image will be saved to output directory with custom file name) 

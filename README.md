@@ -62,8 +62,8 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
     yplate crop images/car2.jpg
 
-![plate2](plates/car2_plate_0.jpg)
-    
+<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car2_plate_0.jpg" width = "200" height = "70"> <img src="https://github.com/deepraj1729/yplate/blob/master/out_txt/out.png" width = "400" height = "500">
+
 ### (2.b)  Detect plates and custom save it with a valid new filename (Cropped image will be saved to output directory with starting custom file name)
     
     yplate crop images/car2.jpg --save plate2.jpg

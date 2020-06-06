@@ -2,7 +2,7 @@
 ![python](https://img.shields.io/badge/python-3.5%3E-red)
 # Yplate
 
-## Detect Vehicle Number plates with YOLOv3 powered by OpenCV 3.x >=
+## Detect Vehicle Number plates with YOLOv3 powered by OpenCV >= 3.x 
 
 ### Usage:
 

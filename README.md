@@ -36,7 +36,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ![car2](output/car2.jpg)
 
-![out] (out_txt/out.png)
+![out](out_txt/out.png)
     
 ### (1.b)  Detect plates and custom save it with a valid new filename (detected image will be saved to output directory with custom file name) 
     

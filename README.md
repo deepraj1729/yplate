@@ -100,10 +100,4 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 #### Corresponding plates:
 
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car1_plate_0.jpg" width = "100" height = "40">
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car2_plate_0.jpg" width = "100" height = "40">
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car3_plate_0.jpg" width = "100" height = "40">
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car4_plate_0.jpg" width = "100" height = "40">
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car4_plate_1.jpg" width = "100" height = "40">
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car5_plate_0.jpg" width = "100" height = "40">
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car6_plate_0.jpg" width = "100" height = "40">
+<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car1_plate_0.jpg" width = "100" height = "40"> <img src="https://github.com/deepraj1729/yplate/blob/master/plates/car2_plate_0.jpg" width = "100" height = "40">  <img src="https://github.com/deepraj1729/yplate/blob/master/plates/car3_plate_0.jpg" width = "100" height = "40">  <img src="https://github.com/deepraj1729/yplate/blob/master/plates/car4_plate_0.jpg" width = "100" height = "40">  <img src="https://github.com/deepraj1729/yplate/blob/master/plates/car4_plate_1.jpg" width = "100" height = "40">  <img src="https://github.com/deepraj1729/yplate/blob/master/plates/car5_plate_0.jpg" width = "100" height = "40">  <img src="https://github.com/deepraj1729/yplate/blob/master/plates/car6_plate_0.jpg" width = "100" height = "40">

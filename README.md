@@ -90,9 +90,9 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ### Detected Plates:
 
-<img src="https://github.com/deepraj1729/yplate/blob/master/output/car1.jpg" style = "width:20%;height:20%;">
+<img src="https://github.com/deepraj1729/yplate/blob/master/output/car1.jpg" width = "50%" height = "20%">
 
 
 #### Corresponding plates:
-<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car1_plate_0.jpg" style = "width:50%;height:50%;">
+<img src="https://github.com/deepraj1729/yplate/blob/master/plates/car1_plate_0.jpg">
 

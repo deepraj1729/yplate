@@ -90,7 +90,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ### Detected Plates:
 
-<div><img src="https://github.com/deepraj1729/yplate/blob/master/output/car1.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car2.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car3.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car4.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car5.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car6.jpg" width = "200" height = "150"></div>
+<div><img src="https://github.com/deepraj1729/yplate/blob/master/output/car1.jpg" width = "200" height = "200"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car2.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car3.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car4.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car5.jpg" width = "200" height = "150"> <img src="https://github.com/deepraj1729/yplate/blob/master/output/car6.jpg" width = "200" height = "150"></div>
 
 #### Corresponding plates:
 

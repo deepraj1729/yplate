@@ -9,7 +9,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ### Install:
 
-#### a. With `Wheel` 
+#### a. With `wheel` 
 
     pip install https://github.com/deepraj1729/yplate/releases/download/0.0.1/yplate-0.0.1-py3-none-any.whl
 

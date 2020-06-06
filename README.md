@@ -1,4 +1,4 @@
-[![yplate](https://img.shields.io/badge/yplate-v0.0.1-blue)](https://github.com/deepraj1729/yplate/blob/master/)  [![license](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/deepraj1729/yplate/blob/master/LICENSE) [![dependencies](https://img.shields.io/badge/dependencies-packages-orange)](https://github.com/deepraj1729/yplate/blob/master/requirements.txt)
+[![yplate](https://img.shields.io/badge/yplate-v0.0.1-blue)](https://github.com/deepraj1729/yplate/releases/tag/0.0.1)  [![license](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/deepraj1729/yplate/blob/master/LICENSE) [![dependencies](https://img.shields.io/badge/dependencies-packages-orange)](https://github.com/deepraj1729/yplate/blob/master/requirements.txt)
 ![python](https://img.shields.io/badge/python-3.5%3E-red)
 # Yplate
 

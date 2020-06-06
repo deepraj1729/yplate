@@ -8,7 +8,7 @@
 
     pip install yplate
     
-## Command-line Commands:-
+## Command-line Arguments:-
 
 1. `detect`
 

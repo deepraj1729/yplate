@@ -31,7 +31,10 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ### (1.a)  Detect plates manually (detected image will be saved to output directory always with original starting file name) 
 
-    yplate detect img.jpg
+    yplate detect images/car2.jpg
+
+
+![car2.jpg](https://github.com/deepraj1729/yplate/blob/master/images/car2.jpg | width=200)
     
 ### (1.b)  Detect plates and custom save it with a valid new filename (detected image will be saved to output directory with custom file name) 
     

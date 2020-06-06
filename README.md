@@ -29,7 +29,7 @@ It will be updated to `pypi` and `conda` soon with stable releases
 
 ## `detect` (Detect  Plates) :-
 
-### (1.a)  Detect plates manually (detected image will be saved to output directory always with original starting file name) 
+### (1.a)  Detect plates automatically (detected image will be saved to output directory always with original starting file name) 
 
     yplate detect images/car2.jpg
 
